@@ -136,7 +136,7 @@ function sleep(ms) {
 
 
 async function main() {
-    await sleep(4000);
+    await sleep(3000);
     
     url = new URL(document.location.href)
     
